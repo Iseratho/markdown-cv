@@ -1,91 +1,172 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Markus Reiter-Haas' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Markus Reiter-Haas
+University Assistant @ Graz University of Technology
+
+
+Institute of Interactive Systems and Data Science  
+Inffeldgasse 16c/I, 8010 Graz  
+Austria
+
+<a href="mailto:reiter-haas@tugraz.at">reiter-haas@tugraz.at</a>  
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://iseratho.github.io"><i class="fa fa-home"></i> https://iseratho.github.io/</a> | 
+  <a href="http://github.com/Iseratho"><i class="fa fa-github"></i> Iseratho</a> | 
+  <a href="http://twitter.com/Iseratho"><i class="fa fa-twitter"></i> Iseratho</a>
 </div>
 
+## About Me
 
-## Currently
+Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD student at the Graz University of Technology. His research focuses on natural language processing in social systems. His ongoing PhD thesis has the topic of polarization in public opinion. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data. He has a Master’s and Bachelor’s degree, both with distinction, in Computer Science at Graz University of Technology, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experience in machine learning. 
 
-Standing on the shoulders of giants
+## Research Interests
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Natural Language Processing, Network Science, Machine Learning,
+Word Embeddings, Item Representations, Recommender Systems, Information Retrieval
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - present`
+**Doctorate in Computer Science**  
+Graz University of Technology  
+Polarization in Public Opinion  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017 – 2020`
+**Master in Computer Science**  
+Graz University of Technology
+Main Specialization: Knowledge Technologies  
+Secondary Specialization: Multimedia Information Systems  
+Passed with distinction  
 
-- Sizar
+`2012 – 2017`
+**Bachelor in Computer Science**  
+Graz University of Technology  
+Passed with distinction  
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2006 – 2011`
+**Technical College in Computer Science**  
+HTBLA Kaindorf an der Sulm  
+Passed with distinction  
 
-- Fellow
+## Experience
 
+`2020 – Present`
+**University Assistant**  
+Technische Universität Graz  
+Research Focus: NLP in SocialSystems
 
+`2017-2020`
+**Data Scientist**  
+Moshbit GmbH (Talto - Talents of Tomorrow)  
+Research on deeplearning for job recommenders
 
-## Awards
+## Teaching
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+**Know-Center Summer School**  
+Invited Speaker  
+Polarization
 
-Associate, *French Academy of Science*, Paris, France
+`SS 2021`
+**Social Media Course @ Uni Graz**  
+Guest Lecture  
+Social Media and Digital Trace Data
 
+## Skills
 
+### Main Programming Languages
 
-## Publications
+`2012-present`
+Python
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2006-2021`
+Java
 
-### Journals
+`2017-2020`
+Kotlin
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+<!-- - Java  (15y)
+- Python 2012-current (9y)
+- Kotlin 2017-2020 (3y) -->
 
-`1669`
-Lectiones opticæ.
+### Natural Languages
 
-etc. etc. etc.
+German: Native  
+English: C1  
 
-### Patents
+## Research
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Publications
 
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020).  
+**Bridging the Gap of Polarization in Public Opinion on Misinformed Topics.**  
+*Challenging Misinformation: Exploring Limits and Approaches, workshop co-located with Social Informatics'20* ([pdf](https://socialcomplab.github.io/polarization/publications/2020misinformation_bridging.pdf))  
 
-## Occupation
+Reiter-Haas, M., Wittenbrink, D., & Lacic, E. (2020, September).  
+**On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career.**  
+*In Fourteenth ACM Conference on Recommender Systems (pp. 573-574).*  
 
-`1600`
-__Royal Mint__, London
+Reiter-Haas, M. (2020). 
+**Evaluation of Job Recommendations for the Studo Jobs Platform.**  
+*MA thesis.*  
 
-- Warden
-- Minted coins
+Lacic, E., Reiter-Haas, M., Kowald, D., Dareddy, M. R., Cho, J., & Lex, E. (2020).  
+**Using autoencoders for session-based job recommendations.**  
+*In User Modeling and User-Adapted Interaction, 1-42.*  
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Reiter-Haas, M., Lacic, E., Duricic, T., Slawicek, V., & Lex, E. (2019).  
+**Should we Embed? A Study on the Online Performance of Utilizing Embeddings for Real-Time Job Recommendations.**  
+*In Proceedings of the 13th ACM Conference on Recommender Systems (pp. 496-500). ACM.*  
 
+Lacic, E., Kowald, D., Reiter-Haas M., Slawicek, V., & Lex, E. (2018).  
+**Beyond Accuracy Optimization: On the Value of Item Embeddings for Student Job Recommendations.**  
+*In the International Workshop on Multi-dimensional Information Fusion for User Modeling and Personalization (IFUP'2018) co-located with the 11th ACM International Conference on Web Search and Data Mining (WSDM'2018)*  
 
+Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).  
+**Studo Jobs: Enriching Data With Predicted Job Labels.**  
+*In Workshop on Recommender Systems and Social Network Analysis (RS-SNA'2017) co-located with i-KNOW'2017*  
 
-<!-- ### Footer
+<!-- ## Services -->
 
-Last updated: May 2013 -->
+### Program Committee
 
+`2021`
+RecSys
 
+`2020`
+IUI
+
+<!-- - Reviewer @ RecSys 2021
+- Reviewer @ IUI 2020 -->
+
+## Misc
+
+### Public Speaking
+
+`2019`
+**How we revolutionized the future of HR.**  
+Fifteen Seconds Festival.
+
+`2019`
+**Styria AI Slam**
+
+### Projects
+
+[Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)  
+PhD project
+
+### Press
+
+[Polarisation on COVID-19 debate.](https://nachrichten.idw-online.de/2020/09/21/verschwoerung-oder-fakten-forschungsergebnisse-von-uni-graz-und-tu-graz-zeigen-polarisierung-in-der-corona-debatte-auf/) (in German)
+Informationsdienst Wissenschaft e.V. -idw- 2020.
+
+<!-- ## Personal
+Birthday: 
+Adress: 
+Mobile: 
+Email: 
+Nationality  -->
