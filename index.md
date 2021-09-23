@@ -66,6 +66,10 @@ Research on deeplearning for job recommenders
 
 ## Teaching
 
+`WS 2021`
+**Web Technology**
+Practicals
+
 `2020`
 **Know-Center Summer School**  
 Invited Speaker  
@@ -82,6 +86,9 @@ Social Media and Digital Trace Data
 
 `2012-present`
 Python
+
+`-present`
+JavaScript
 
 `2006-2021`
 Java
@@ -101,6 +108,14 @@ English: C1
 ## Research
 
 ### Publications
+
+Reiter-Haas, M., Parada-Cabaleiro, E., Schedl, M., Motamedi, E., Tkalcic, M., & Lex, E. (2021). 
+**Predicting Music Relistening Behavior Using the ACT-R Framework.** 
+*arXiv preprint arXiv:2108.02138.*
+
+Reiter-Haas, M., Kopeinik, S., & Lex, E. (2021, May). 
+**Studying Moral-based Differences in the Framing of Political Tweets.**
+*In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 15, pp. 1085-1089).*
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020).  
 **Bridging the Gap of Polarization in Public Opinion on Misinformed Topics.**  
@@ -133,6 +148,9 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 <!-- ## Services -->
 
 ### Program Committee
+
+`2021`
+RecSys LBR
 
 `2021`
 RecSys
