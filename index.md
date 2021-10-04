@@ -109,12 +109,12 @@ English: C1
 
 ### Publications
 
-Reiter-Haas, M., Parada-Cabaleiro, E., Schedl, M., Motamedi, E., Tkalcic, M., & Lex, E. (2021). 
-**Predicting Music Relistening Behavior Using the ACT-R Framework.** 
-*arXiv preprint arXiv:2108.02138.*
+Reiter-Haas, M., Parada-Cabaleiro, E., Schedl, M., Motamedi, E., Tkalcic, M., & Lex, E. (2021, September).  
+**Predicting Music Relistening Behavior Using the ACT-R Framework.**  
+*In Fifteenth ACM Conference on Recommender Systems (pp. 702-707).*
 
-Reiter-Haas, M., Kopeinik, S., & Lex, E. (2021, May). 
-**Studying Moral-based Differences in the Framing of Political Tweets.**
+Reiter-Haas, M., Kopeinik, S., & Lex, E. (2021, May).  
+**Studying Moral-based Differences in the Framing of Political Tweets.**  
 *In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 15, pp. 1085-1089).*
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020).  
