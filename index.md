@@ -147,19 +147,16 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 
 <!-- ## Services -->
 
-### Program Committee
+### Program Committee/Reviewer
+
+`2022`
+SIGIR'22 Long papers
 
 `2021`
-RecSys LBR
-
-`2021`
-RecSys
+IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, Web'22 WMCA track, SSCR
 
 `2020`
-IUI
-
-<!-- - Reviewer @ RecSys 2021
-- Reviewer @ IUI 2020 -->
+IUI'21
 
 ## Misc
 
