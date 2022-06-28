@@ -150,13 +150,36 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 ### Program Committee/Reviewer
 
 `2022`
-SIGIR'22 Long papers
+SIGIR'22 Long papers, RecSys'22 Main
 
 `2021`
 IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, Web'22 WMCA track, SSCR
 
 `2020`
 IUI'21
+
+### Conference Attendence
+
+`Poster`
+ACSD’22 - Computational Framing Analysis in Online Media
+
+`Session Chair`
+Web’22 - Web Mining and Content Analysis: Social 2
+
+`Participant`
+CHIIR’22
+
+`Poster`
+RecSys’21 - Predicting music relistening behavior using the ACT-R framework
+
+`Poster`
+ICWSM’21 - Studying Moral-based Differences in the Framing of Political Tweets
+
+`Industry Talk`
+RecSys’20 - On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career
+
+`Workshop`
+SocInfo’20 - Bridging the gap of polarization in public opinion on misinformed topics
 
 ## Misc
 
