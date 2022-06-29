@@ -66,7 +66,7 @@ Research on deeplearning for job recommenders
 
 ## Teaching
 
-`WS 2021`
+`2021W`
 **Web Technology**
 Practicals
 
@@ -75,7 +75,7 @@ Practicals
 Invited Speaker  
 Polarization
 
-`SS 2021`
+`2021S`
 **Social Media Course @ Uni Graz**  
 Guest Lecture  
 Social Media and Digital Trace Data
@@ -95,10 +95,6 @@ Java
 
 `2017-2020`
 Kotlin
-
-<!-- - Java  (15y)
-- Python 2012-current (9y)
-- Kotlin 2017-2020 (3y) -->
 
 ### Natural Languages
 
@@ -180,6 +176,55 @@ RecSys’20 - On the Heterogeneous Information Needs in the Job Domain: A Unifie
 
 `Workshop`
 SocInfo’20 - Bridging the gap of polarization in public opinion on misinformed topics
+
+## PhD specific Education
+
+### PhD Curricular Courses
+
+`2020W`
+Scientific Writing for PhD students (C1-level)
+
+`2020W`
+Scientific Presentation for PhD students (C1-level)
+
+`2020W`
+Scientific Methods
+
+`2020W`
+Data Integration and Large-Scale Analysis - Apache SystemDS - [PR-1169](https://github.com/apache/systemds/pull/1169)
+
+`2020S`
+Architecture of Machine Learning System - Apache SystemDS - [PR-993](https://github.com/apache/systemds/pull/993)
+
+`2020S`
+Natural Language Processing - [RecSys Challenge Twitter Engagement]([http://www.recsyschallenge.com/2020/](http://www.recsyschallenge.com/2020/))
+
+### PhD Extra-Curricular Courses
+
+`2021S`
+Scientific Writing: From a Blank Page to the Finished Paper
+
+`2021S`
+Clear Scientific Writing
+
+### PhD-Coaching
+
+`2022S`
+High Potential Coaching - Efficient and resilient to your dissertation
+
+`2022S`
+High Potential Coaching - Develop your personal strategy for a successful PhD
+
+### Teaching-related Courses
+
+`2021W`
+Teaching at TU Graz
+
+`2021W`
+Higher Education Didactics 1
+
+`2021W`
+Higher Education Didactics 2
 
 ## Misc
 
