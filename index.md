@@ -105,6 +105,17 @@ English: C1
 
 ### Publications
 
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2022).  
+**Polarization of opinions on COVID-19 measures: Integrating Twitter and survey data.**  
+*Social Science Computer Review, 08944393221087662.*
+
+Hadler, M., Klösch, B., Reiter-Haas, M., & Lex, E. (2022).  
+**Combining Survey and Social Media Data: Respondents' Opinions on COVID-19 Measures and Their Willingness to Provide Their Social Media Account Information.**  
+*Frontiers in Sociology, 7.*
+
+Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2022).  
+**Social desirability and the willingness to provide social media accounts in surveys. The case of environmental attitudes.**
+
 Reiter-Haas, M., Parada-Cabaleiro, E., Schedl, M., Motamedi, E., Tkalcic, M., & Lex, E. (2021, September).  
 **Predicting Music Relistening Behavior Using the ACT-R Framework.**  
 *In Fifteenth ACM Conference on Recommender Systems (pp. 702-707).*
@@ -113,9 +124,14 @@ Reiter-Haas, M., Kopeinik, S., & Lex, E. (2021, May).
 **Studying Moral-based Differences in the Framing of Political Tweets.**  
 *In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 15, pp. 1085-1089).*
 
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2021).  
+**Opinion Polarization on COVID-19 Measures: Integrating Surveys and Social Media Data**  
+*(No. 6127). EasyChair.*
+
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020).  
 **Bridging the Gap of Polarization in Public Opinion on Misinformed Topics.**  
-*Challenging Misinformation: Exploring Limits and Approaches, workshop co-located with Social Informatics'20* ([pdf](https://socialcomplab.github.io/polarization/publications/2020misinformation_bridging.pdf))  
+*Challenging Misinformation: Exploring Limits and Approaches, workshop co-located with Social Informatics'20* 
+<!-- ([pdf](https://socialcomplab.github.io/polarization/publications/2020misinformation_bridging.pdf))   -->
 
 Reiter-Haas, M., Wittenbrink, D., & Lacic, E. (2020, September).  
 **On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career.**  
