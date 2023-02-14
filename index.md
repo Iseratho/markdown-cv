@@ -254,7 +254,7 @@ Teaching Academy Module Advanced
 
 `2021W`
 Teaching Academy Module Basic  
-(Comprisng of Teaching at TU Graz, Higher Education Didactics 1: Basics of Teaching and Learning, Higher Education Didactics 2: Teaching Courses)
+(Comprising of Teaching at TU Graz, Higher Education Didactics 1: Basics of Teaching and Learning, Higher Education Didactics 2: Teaching Courses)
 
 
 ## Misc
