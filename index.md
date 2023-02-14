@@ -66,9 +66,13 @@ Research on deeplearning for job recommenders
 
 ## Teaching
 
+`2022W`
+**Advanced Information Retrieval**
+Lecturer (Highlight: Transformer 4 IR Hands-on Tutorial)
+
 `2021W`
 **Web Technology**
-Practicals
+Practicals + Lecture Unit
 
 `2020`
 **Know-Center Summer School**  
@@ -241,14 +245,14 @@ High Potential Coaching - Develop your personal strategy for a successful PhD
 
 ### Teaching-related Courses
 
-`2021W`
-Teaching at TU Graz
+`2022W-in progress`
+Teaching Academy Module Advanced  
+(Completed so far: 	Hochschuldidaktik 3: Lehrverhaltenstraining, Kompetent prüfen)
 
 `2021W`
-Higher Education Didactics 1
+Teaching Academy Module Basic  
+(Comprisng of Teaching at TU Graz, Higher Education Didactics 1: Basics of Teaching and Learning, Higher Education Didactics 2: Teaching Courses)
 
-`2021W`
-Higher Education Didactics 2
 
 ## Misc
 
