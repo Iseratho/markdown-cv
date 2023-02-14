@@ -205,9 +205,10 @@ RecSys’20 - On the Heterogeneous Information Needs in the Job Domain: A Unifie
 `Workshop`
 SocInfo’20 - Bridging the gap of polarization in public opinion on misinformed topics
 
-## PhD specific Education
+## PhD-specific Education
 
-### PhD Curricular Courses
+### PhD Curricular 
+<!-- Courses -->
 
 `2020W`
 Scientific Writing for PhD students (C1-level)
@@ -227,7 +228,8 @@ Architecture of Machine Learning System - Apache SystemDS - [PR-993](https://git
 `2020S`
 Natural Language Processing - [RecSys Challenge Twitter Engagement]([http://www.recsyschallenge.com/2020/](http://www.recsyschallenge.com/2020/))
 
-### PhD Extra-Curricular Courses
+### PhD Extra-Curricular 
+<!-- Courses -->
 
 `2021S`
 Scientific Writing: From a Blank Page to the Finished Paper
@@ -243,7 +245,8 @@ High Potential Coaching - Efficient and resilient to your dissertation
 `2022S`
 High Potential Coaching - Develop your personal strategy for a successful PhD
 
-### Teaching-related Courses
+### Teaching-related 
+<!-- Courses -->
 
 `2022W-in progress`
 Teaching Academy Module Advanced  
