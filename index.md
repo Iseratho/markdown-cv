@@ -137,7 +137,7 @@ Reiter-Haas, M., Wittenbrink, D., & Lacic, E. (2020, September).
 **On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career.**  
 *In Fourteenth ACM Conference on Recommender Systems (pp. 573-574).*  
 
-Reiter-Haas, M. (2020). 
+Reiter-Haas, M. (2020).  
 **Evaluation of Job Recommendations for the Studo Jobs Platform.**  
 *MA thesis.*  
 
@@ -161,16 +161,24 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 
 ### Program Committee/Reviewer
 
+`2023`
+ACL'23, SIGIR'23 (Full + Short papers)
+<!-- ACL track: Computational Social Science and Cultural Analytics -->
+
 `2022`
-SIGIR'22 Long papers, RecSys'22 Main
+SIGIR'22 Long papers, RecSys'22 Main, EMNLP'22, WSDM'23, WebConf'23 UMAP track
+<!-- EMNLP track: Sentiment Analysis, Stylistic Analysis, and Argument Mining -->
 
 `2021`
-IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, Web'22 WMCA track, SSCR
+IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, WebConf'22 WMCA track, SSCR
 
 `2020`
 IUI'21
 
 ### Conference Attendence
+
+`Poster`
+GraML - Opening Event (2022)
 
 `Poster`
 ACSD’22 - Computational Framing Analysis in Online Media
