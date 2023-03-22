@@ -14,9 +14,10 @@ Austria
 <a href="mailto:reiter-haas@tugraz.at">reiter-haas@tugraz.at</a>  
 
 <div id="webaddress">
-  <a href="https://iseratho.github.io"><i class="fa fa-home"></i> https://iseratho.github.io/</a> | 
-  <a href="http://github.com/Iseratho"><i class="fa fa-github"></i> Iseratho</a> | 
-  <a href="http://twitter.com/Iseratho"><i class="fa fa-twitter"></i> Iseratho</a>
+  <a href="https://iseratho.github.io"><i class="fas fa-home"></i> https://iseratho.github.io/</a> | 
+  <a href="http://github.com/Iseratho"><i class="fab fa-github"></i> Iseratho</a> | 
+  <a href="http://twitter.com/Iseratho"><i class="fab fa-twitter"></i> @Iseratho</a> | 
+  <a href="https://mastodon.online/@Iseratho"><i class="fab fa-mastodon"></i> @iseratho@mastodon.online</a>
 </div>
 
 ## About Me
