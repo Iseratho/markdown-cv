@@ -8,10 +8,10 @@ University Assistant @ Graz University of Technology
 
 
 Institute of Interactive Systems and Data Science  
-Inffeldgasse 16c/I, 8010 Graz  
-Austria
+Sandgasse 36/III, 8010 Graz  
+Austria  
 
-<a href="mailto:reiter-haas@tugraz.at">reiter-haas@tugraz.at</a>  
+<a href="mailto:reiter-haas@tugraz.at"><i class="fas fa-envelope"></i> reiter-haas@tugraz.at</a>  
 
 <div id="webaddress">
   <a href="https://iseratho.github.io"><i class="fas fa-home"></i> https://iseratho.github.io/</a> | 
