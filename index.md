@@ -22,7 +22,7 @@ Austria
 
 ## About Me
 
-Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD student at the Graz University of Technology. His research focuses on natural language processing in social systems. His ongoing PhD thesis has the topic of polarization in public opinion. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data. He has a Master’s and Bachelor’s degree, both with distinction, in Computer Science at Graz University of Technology, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experience in machine learning. 
+Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD candidate at the Graz University of Technology. His research focuses on natural language processing in social systems. His ongoing PhD thesis has the topic of polarization in public opinion. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data. He has a Master’s and Bachelor’s degree, both with distinction, in Computer Science at Graz University of Technology, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experience in machine learning. 
 
 ## Research Interests
 
@@ -32,7 +32,7 @@ Word Embeddings, Item Representations, Recommender Systems, Information Retrieva
 ## Education
 
 `2020 - present`
-**Doctorate in Computer Science**  
+**PhD Candidate in Computer Science**  
 Graz University of Technology  
 Polarization in Public Opinion  
 
