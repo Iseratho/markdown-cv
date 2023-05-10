@@ -112,15 +112,15 @@ English: C1
 
 Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023).  
 **mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.**  
-*arXiv preprint arXiv:2303.09901.* ([link](https://arxiv.org/abs/2303.09901))  
+*arXiv preprint arXiv:2303.09901.*
 
 Reiter-Haas, M. (2023).  
 **Exploration of Framing Biases in Polarized Online Content Consumption.**  
-*Companion Proceedings of the ACM Web Conference 2023, 560–564. Presented at the Austin, TX, USA.* ([link](https://doi.org/10.1145/3543873.3587534))  
+*Companion Proceedings of the ACM Web Conference 2023, 560–564. Presented at the Austin, TX, USA.*
 
 Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2023).  
 **Polarized opinions on Covid-19 and environmental policy measures. The role of social media use and personal concerns in German-speaking countries.**  
-*Innovation: The European Journal of Social Science Research, 1-24.* ([link](https://doi.org/10.1080/13511610.2023.2201877))  
+*Innovation: The European Journal of Social Science Research, 1-24.*
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2022).  
 **Polarization of opinions on COVID-19 measures: Integrating Twitter and survey data.**  
@@ -179,7 +179,7 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 ### Program Committee/Reviewer
 
 `2023`
-ACL'23, SIGIR'23 (Full + Short papers), [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full)
+ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full)
 <!-- ACL track: Computational Social Science and Cultural Analytics -->
 
 `2022`
