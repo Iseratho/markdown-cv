@@ -17,7 +17,11 @@ Austria
   <a href="https://iseratho.github.io"><i class="fas fa-home"></i> https://iseratho.github.io/</a> | 
   <a href="http://github.com/Iseratho"><i class="fab fa-github"></i> Iseratho</a> | 
   <a href="http://twitter.com/Iseratho"><i class="fab fa-twitter"></i> @Iseratho</a> | 
-  <a href="https://mastodon.online/@Iseratho"><i class="fab fa-mastodon"></i> @iseratho@mastodon.online</a>
+  <a href="https://mastodon.online/@Iseratho"><i class="fab fa-mastodon"></i> @iseratho@mastodon.online</a> | 
+  <a href="https://www.linkedin.com/in/markus-reiter-haas/"><i class="fab fa-linkedin"></i> Markus Reiter-Haas</a> | 
+  <a href="https://scholar.google.com/citations?user=IN-hA_gAAAAJ"><i class="fas fa-graduation-cap"></i> Markus Reiter-Haas</a> | 
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-9852-8206"><i class="fab fa-orcid"> 0000-0001-9852-8206</i></a> | 
+  <a href="https://www.researchgate.net/profile/Markus-Reiter-Haas"><i class="fab fa-researchgate"></i> Markus Reiter-Haas</a> | 
 </div>
 
 ## About Me
