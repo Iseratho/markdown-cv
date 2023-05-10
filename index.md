@@ -167,20 +167,26 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 ### Program Committee/Reviewer
 
 `2023`
-ACL'23, SIGIR'23 (Full + Short papers)
+ACL'23, SIGIR'23 (Full + Short papers), [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full)
 <!-- ACL track: Computational Social Science and Cultural Analytics -->
 
 `2022`
-SIGIR'22 Long papers, RecSys'22 Main, EMNLP'22, WSDM'23, WebConf'23 UMAP track
+SIGIR'22 Long papers, RecSys'22 Main, EMNLP'22, WSDM'23, **TheWebConf'23 UMAP track (among Best Reviewers)**
 <!-- EMNLP track: Sentiment Analysis, Stylistic Analysis, and Argument Mining -->
 
 `2021`
-IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, WebConf'22 WMCA track, SSCR
+IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, TheWebConf'22 WMCA track, SSCR
 
 `2020`
 IUI'21
 
 ### Conference Attendence
+
+`Session Chair`
+TheWebConf’23 - User Modeling and Personalization: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility
+
+`Presenter`
+TheWebConf’23 - PhD Symposium: Exploration of Framing Biases in Polarized Online Content Consumption
 
 `Poster`
 GraML - Opening Event (2022)
@@ -189,7 +195,7 @@ GraML - Opening Event (2022)
 ACSD’22 - Computational Framing Analysis in Online Media
 
 `Session Chair`
-Web’22 - Web Mining and Content Analysis: Social 2
+TheWebConf’22 - Web Mining and Content Analysis: Social 2
 
 `Participant`
 CHIIR’22
