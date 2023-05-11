@@ -213,11 +213,14 @@ ACSD’22 - Computational Framing Analysis in Online Media
 `Session Chair`
 TheWebConf’22 - Web Mining and Content Analysis: Social 2
 
-`Participant`
+`Attendee`
 CHIIR’22
 
 `Poster`
 RecSys’21 - Predicting music relistening behavior using the ACT-R framework
+
+`Poster`
+IC2S2’21 - Opinion Polarization on COVID-19 Measures: Integrating Surveys and Social Media Data
 
 `Poster`
 ICWSM’21 - Studying Moral-based Differences in the Framing of Political Tweets
@@ -260,7 +263,7 @@ Scientific Writing: From a Blank Page to the Finished Paper
 `2021S`
 Clear Scientific Writing
 
-### PhD-Coaching
+### PhD Coaching
 
 `2022S`
 High Potential Coaching - Efficient and resilient to your dissertation
