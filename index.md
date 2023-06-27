@@ -271,6 +271,10 @@ High Potential Coaching - Efficient and resilient to your dissertation
 `2022S`
 High Potential Coaching - Develop your personal strategy for a successful PhD
 
+### Summer School
+`2022S`
+SICSS-Aachen-Graz - [Rally ‘round the institution](https://github.com/Iseratho/sicss-idea-6)
+
 ### Teaching-related 
 <!-- Courses -->
 
