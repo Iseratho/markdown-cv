@@ -286,6 +286,8 @@ Teaching Academy Module Advanced
 Teaching Academy Module Basic  
 (Comprising of Teaching at TU Graz, Higher Education Didactics 1: Basics of Teaching and Learning, Higher Education Didactics 2: Teaching Courses)
 
+`2023`
+[OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
 
 ## Misc
 
