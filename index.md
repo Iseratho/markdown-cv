@@ -281,7 +281,7 @@ SICSS-Aachen-Graz - [Rally ‘round the institution](https://github.com/Iseratho
 ### Teaching-related 
 <!-- Courses -->
 
-`2022W-2022S`
+`2022W-2023S`
 Teaching Academy Module Advanced  
 (Comprising Competent Testing, Digitization in Teaching, Higher Education Didactics 3, and Teaching in English among others)  
 
