@@ -271,6 +271,9 @@ High Potential Coaching - Efficient and resilient to your dissertation
 `2022S`
 High Potential Coaching - Develop your personal strategy for a successful PhD
 
+`2022W`
+Meeting Point Dissertation Workshop - Time and Self-Management
+
 ### Summer School
 `2022S`
 SICSS-Aachen-Graz - [Rally ‘round the institution](https://github.com/Iseratho/sicss-idea-6)
@@ -278,13 +281,27 @@ SICSS-Aachen-Graz - [Rally ‘round the institution](https://github.com/Iseratho
 ### Teaching-related 
 <!-- Courses -->
 
-`2022W-in progress`
+`2022W-2022S`
 Teaching Academy Module Advanced  
-(Completed so far: 	Hochschuldidaktik 3: Lehrverhaltenstraining, Kompetent prüfen)
+(Comprising Competent Testing, Digitization in Teaching, Higher Education Didactics 3, and Teaching in English among others)
+<!-- 
+- Competent testing
+- Digitization in teaching: How technology can enrich your teaching
+- Higher Education Didactics 3 - Teaching Behavior Training
+- Teaching in English: Presenting in Class
+- Accessible PowerPoint Presentations
+- Didactic Workshop - Create good exam questions with little effort
+- Didactic Workshop - Blended Learning: Flipped Classroom, Braid Structure, etc.
+-->
 
 `2021W`
 Teaching Academy Module Basic  
-(Comprising of Teaching at TU Graz, Higher Education Didactics 1: Basics of Teaching and Learning, Higher Education Didactics 2: Teaching Courses)
+(Comprising Teaching at TU Graz, Higher Education Didactics 1 and 2: Basics of Teaching and Learning/Teaching Courses)
+<!-- 
+- Teaching at TU Graz
+- Higher Education Didactics 1: Basics of Teaching and Learning
+- Higher Education Didactics 2: Teaching Course
+-->
 
 `2023`
 [OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
