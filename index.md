@@ -303,7 +303,7 @@ Teaching Academy Module Basic
 - Higher Education Didactics 2: Teaching Course
 -->
 
-`2023`
+`2023S`
 [OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
 
 ## Misc
