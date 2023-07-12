@@ -283,7 +283,8 @@ SICSS-Aachen-Graz - [Rally ‘round the institution](https://github.com/Iseratho
 
 `2022W-2022S`
 Teaching Academy Module Advanced  
-(Comprising Competent Testing, Digitization in Teaching, Higher Education Didactics 3, and Teaching in English among others)
+(Comprising Competent Testing, Digitization in Teaching, Higher Education Didactics 3, and Teaching in English among others)  
+
 <!-- - Competent testing
 - Digitization in teaching: How technology can enrich your teaching
 - Higher Education Didactics 3 - Teaching Behavior Training
@@ -294,7 +295,8 @@ Teaching Academy Module Advanced
 
 `2021W`
 Teaching Academy Module Basic  
-(Comprising Teaching at TU Graz, Higher Education Didactics 1 and 2: Basics of Teaching and Learning/Teaching Courses)
+(Comprising Teaching at TU Graz, Higher Education Didactics 1 and 2: Basics of Teaching and Learning/Teaching Courses)  
+
 <!-- - Teaching at TU Graz
 - Higher Education Didactics 1: Basics of Teaching and Learning
 - Higher Education Didactics 2: Teaching Course -->
