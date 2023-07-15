@@ -71,13 +71,18 @@ Research on deeplearning for job recommenders
 
 ## Teaching
 
+`2023W`
+**Advanced Information Retrieval**  
+Lecturer
+
 `2022W`
-**Advanced Information Retrieval**
-Lecturer (Highlight: Transformer 4 IR Hands-on Tutorial)
+**Advanced Information Retrieval**  
+Lecturer (Highlight: [Transformer 4 IR Hands-on Tutorial](https://www.kaggle.com/code/markusreiterhaas/advanced-information-retrieval-7-transformers4ir))  
+[Project Showcase](https://socialcomplab.github.io/advancedIR-2022-showcase/)  
 
 `2021W`
-**Web Technology**
-Practicals + Lecture Unit
+**Web Technology**  
+Practicals + Lecture Unit  
 
 `2020`
 **Know-Center Summer School**  
