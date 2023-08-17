@@ -76,6 +76,10 @@ Research on deeplearning for job recommenders
 Lecturer (Highlight: [Transformer 4 IR Hands-on Tutorial](https://www.kaggle.com/code/markusreiterhaas/advanced-information-retrieval-7-transformers4ir))  
 Projects ([Showcase 2022](https://socialcomplab.github.io/advancedIR-2022-showcase/))  
 
+`2022W`
+**SemEval 2023 Challenge Team**  
+[1st place on Spanisch Framing Detection](https://propaganda.math.unipd.it/semeval2023task3/SemEval2023testleaderboard.html)  
+
 `2021W`
 **Web Technology**  
 Practicals + Lecture Unit  
