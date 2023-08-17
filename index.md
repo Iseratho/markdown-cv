@@ -102,7 +102,7 @@ Polarization
 
 `2022W`
 **Lukas Preitler** - Bachelor Thesis  
-Topic Description: *Word Embedding Association Test to Reveal Gender Bias in Austrian School Literature*  
+Topic Description: *Word Embedding Association Test to Reveal Gender Bias in Austrian Teaching Literature*  
 
 ## Skills
 
