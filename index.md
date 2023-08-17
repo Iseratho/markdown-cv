@@ -93,8 +93,8 @@ Social Media and Digital Trace Data
 ### Co-Supervision
 
 `2023S`
-**Alexander Ertl** - Master Thesis
-Contrastive Pre-Training of Transformer Models for Computational Framing Analysis  
+**Alexander Ertl** - Master Thesis  
+[Contrastive Pre-Training of Transformer Models for Computational Framing Analysis](https://github.com/lambdasonly/mCPT)  
 
 `2022W`
 **Lukas Preitler** - Bachelor Thesis  
