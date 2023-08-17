@@ -80,15 +80,15 @@ Projects ([Showcase 2022](https://socialcomplab.github.io/advancedIR-2022-showca
 **Web Technology**  
 Practicals + Lecture Unit  
 
-`2020`
-**Know-Center Summer School**  
-Invited Speaker  
-Polarization
-
 `2021S`
 **Social Media Course @ Uni Graz**  
 Guest Lecture  
-Social Media and Digital Trace Data
+Social Media and Digital Trace Data  
+
+`2020S`
+**Know-Center Summer School**  
+Invited Speaker  
+Polarization  
 
 ### Co-Supervision
 
