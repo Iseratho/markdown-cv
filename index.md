@@ -129,6 +129,8 @@ English: C1
 
 ### Publications
 
+`2023`
+
 Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023).  
 **mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.**  
 *arXiv preprint arXiv:2303.09901.*
@@ -141,6 +143,8 @@ Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2023).
 **Polarized opinions on Covid-19 and environmental policy measures. The role of social media use and personal concerns in German-speaking countries.**  
 *Innovation: The European Journal of Social Science Research, 1-24.*
 
+`2022`
+
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2022).  
 **Polarization of opinions on COVID-19 measures: Integrating Twitter and survey data.**  
 *Social Science Computer Review, 08944393221087662.*
@@ -151,6 +155,8 @@ Hadler, M., Klösch, B., Reiter-Haas, M., & Lex, E. (2022).
 
 Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2022).  
 **Social desirability and the willingness to provide social media accounts in surveys. The case of environmental attitudes.**
+
+`2021`
 
 Reiter-Haas, M., Parada-Cabaleiro, E., Schedl, M., Motamedi, E., Tkalcic, M., & Lex, E. (2021, September).  
 **Predicting Music Relistening Behavior Using the ACT-R Framework.**  
@@ -163,6 +169,8 @@ Reiter-Haas, M., Kopeinik, S., & Lex, E. (2021, May).
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2021).  
 **Opinion Polarization on COVID-19 Measures: Integrating Surveys and Social Media Data**  
 *(No. 6127). EasyChair.*
+
+`2020`
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020).  
 **Bridging the Gap of Polarization in Public Opinion on Misinformed Topics.**  
@@ -181,9 +189,13 @@ Lacic, E., Reiter-Haas, M., Kowald, D., Dareddy, M. R., Cho, J., & Lex, E. (2020
 **Using autoencoders for session-based job recommendations.**  
 *In User Modeling and User-Adapted Interaction, 1-42.*  
 
+`2019`
+
 Reiter-Haas, M., Lacic, E., Duricic, T., Slawicek, V., & Lex, E. (2019).  
 **Should we Embed? A Study on the Online Performance of Utilizing Embeddings for Real-Time Job Recommendations.**  
 *In Proceedings of the 13th ACM Conference on Recommender Systems (pp. 496-500). ACM.*  
+
+`2018`
 
 Lacic, E., Kowald, D., Reiter-Haas M., Slawicek, V., & Lex, E. (2018).  
 **Beyond Accuracy Optimization: On the Value of Item Embeddings for Student Job Recommendations.**  
