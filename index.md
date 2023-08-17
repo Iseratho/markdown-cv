@@ -90,6 +90,16 @@ Polarization
 Guest Lecture  
 Social Media and Digital Trace Data
 
+### Co-Supervision
+
+`2023S`
+**Alexander Ertl** - Master Thesis
+Contrastive Pre-Training of Transformer Models for Computational Framing Analysis  
+
+`2022W`
+**Lukas Preitler** - Bachelor Thesis  
+Topic Description: *Word Embedding Association Test to Reveal Gender Bias in Austrian School Literature*  
+
 ## Skills
 
 ### Main Programming Languages
