@@ -198,7 +198,7 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 ### Program Committee/Reviewer
 
 `2023`
-ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full)
+ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), RecSys'23 (Long + Short), EMNLP'23, [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full)
 <!-- ACL track: Computational Social Science and Cultural Analytics -->
 
 `2022`
