@@ -225,6 +225,9 @@ IUI'21
 
 ### Conference Attendence
 
+`Attendee`
+RANLP'22 - [Write-Up on LLMs](https://iseratho.github.io/2023/09/14/llm-state.html)
+
 `Session Chair`
 TheWebConf’23 - User Modeling and Personalization: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility
 
@@ -302,8 +305,13 @@ High Potential Coaching - Develop your personal strategy for a successful PhD
 Meeting Point Dissertation Workshop - Time and Self-Management
 
 ### Summer School
+`2023S`
+[2nd Summer school on Deep Learning in Natural Language Processing 2023](https://dlinnlp2023.github.io/)  
+co-located with RANLP'22  
+Focus on the Transformer architecture and large language models (LLMs)  
+
 `2022S`
-SICSS-Aachen-Graz - [Rally ‘round the institution](https://github.com/Iseratho/sicss-idea-6)
+[SICSS-Aachen-Graz](https://sicss.io/2022/aachen-graz/) - Project: [Rally ‘round the institution](https://github.com/Iseratho/sicss-idea-6)
 
 ### Teaching-related 
 <!-- Courses -->
