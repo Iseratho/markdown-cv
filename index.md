@@ -295,8 +295,11 @@ Clear Scientific Writing
 
 ### PhD Coaching
 
+`2023W`
+High Potential Coaching - Boost your Productivity
+
 `2022S`
-High Potential Coaching - Efficient and resilient to your dissertation
+High Potential Coaching - Efficient and Resilient to Your Dissertation
 
 `2022S`
 High Potential Coaching - Develop your personal strategy for a successful PhD
@@ -352,11 +355,13 @@ Fifteen Seconds Festival.
 
 ### Projects
 
+`2020 - present`
 [Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)  
 PhD project
 
 ### Press
 
+`2020`
 [Polarisation on COVID-19 debate.](https://nachrichten.idw-online.de/2020/09/21/verschwoerung-oder-fakten-forschungsergebnisse-von-uni-graz-und-tu-graz-zeigen-polarisierung-in-der-corona-debatte-auf/) (in German)
 Informationsdienst Wissenschaft e.V. -idw- 2020.
 
