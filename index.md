@@ -207,6 +207,22 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).
 
 <!-- ## Services -->
 
+### Funding
+
+`2023`
+
+**The Framing of the Climate Debate: Computational Framing Analysis using Abstract Meaning Representation.**  
+*TU Graz: Initial funding program, 18th call.*  
+As part of the consortium. Funding for 1 student assistant.  
+
+**Erasmus+ Staff Mobility for Training**  
+*Host Institution: Bulgarian Academy of Sciences*  
+For the 2nd Summer school on Deep Learning in Natural Language Processing 2023.  
+
+**Travel grant for scientists** (Reisekostenzuschuss für WissenschafterInnen)  
+*Office of the Styrian Government* (Amt der Steiermärkischen Landesregierung)  
+For the participation in symposium at The Web Conference 2023.  
+
 ### Program Committee/Reviewer
 
 `2023`
