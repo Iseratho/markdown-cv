@@ -73,8 +73,9 @@ Research on deeplearning for job recommenders
 
 `2022W-2023W`
 **Advanced Information Retrieval**  
-Lecturer (Highlight: [Transformer 4 IR Hands-on Tutorial](https://www.kaggle.com/code/markusreiterhaas/advanced-information-retrieval-7-transformers4ir))  
-Projects ([Showcase 2022](https://socialcomplab.github.io/advancedIR-2022-showcase/))  
+Lecturer WS23 ([PyTorch 4 Deeplearning](https://www.kaggle.com/code/markusreiterhaas/intro-to-deep-learning-with-pytorch-air-ws23), [Transformers 4 IR - Reranking and Retrieval](https://www.kaggle.com/code/markusreiterhaas/transformers4ir-re-ranking-retrieval-air-ws23))  
+Lecturer WS22 ([Transformer 4 IR Hands-on Tutorial](https://www.kaggle.com/code/markusreiterhaas/advanced-information-retrieval-7-transformers4ir))  
+Projects WS22 ([Showcase](https://socialcomplab.github.io/advancedIR-2022-showcase/)) and WS23  
 
 `2022W`
 **SemEval 2023 Challenge Team**  
@@ -242,7 +243,7 @@ IUI'21
 ### Conference Attendence
 
 `Attendee`
-RANLP'22 - [Write-Up on LLMs](https://iseratho.github.io/2023/09/14/llm-state.html)
+RANLP'23 - [Write-Up on LLMs](https://iseratho.github.io/2023/09/14/llm-state.html)
 
 `Session Chair`
 TheWebConf’23 - User Modeling and Personalization: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility
@@ -326,7 +327,7 @@ Meeting Point Dissertation Workshop - Time and Self-Management
 ### Summer School
 `2023S`
 [2nd Summer school on Deep Learning in Natural Language Processing 2023](https://dlinnlp2023.github.io/)  
-co-located with RANLP'22  
+co-located with RANLP'23  
 Focus on the Transformer architecture and large language models (LLMs)  
 
 `2022S`
