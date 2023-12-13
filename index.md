@@ -21,7 +21,7 @@ Austria
   <a href="https://www.linkedin.com/in/markus-reiter-haas/"><i class="fab fa-linkedin"></i> markus-reiter-haas</a> | <br/>
   <a href="https://scholar.google.com/citations?user=IN-hA_gAAAAJ"><i class="fas fa-graduation-cap"></i> Markus Reiter-Haas</a> | 
   <a href="https://orcid.org/my-orcid?orcid=0000-0001-9852-8206"><i class="fab fa-orcid"></i> 0000-0001-9852-8206</a> | 
-  <a href="https://www.researchgate.net/profile/Markus-Reiter-Haas"><i class="fab fa-researchgate"></i> Markus-Reiter-Haas</a> | 
+  <a href="https://www.researchgate.net/profile/Markus-Reiter-Haas"><i class="fab fa-researchgate"></i> Markus-Reiter-Haas</a>
 </div>
 
 ## About Me
@@ -130,25 +130,31 @@ English: C1
 
 ### Publications
 
+`2024`
+
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
+**FrameFinder: Explorative Multi-Perspective Framing Extraction from News Headlines.**  
+Accepted for publication at CHIIR'24.  
+
 `2023`
 
-Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023).  
+Reiter-Haas, M., Ertl, A., Innerebner, K., & Lex, E. (2023).  
 **mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.**  
-*arXiv preprint arXiv:2303.09901.*
+*In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 941–949, Toronto, Canada. Association for Computational Linguistics.*
 
 Reiter-Haas, M. (2023).  
 **Exploration of Framing Biases in Polarized Online Content Consumption.**  
 *Companion Proceedings of the ACM Web Conference 2023, 560–564. Presented at the Austin, TX, USA.*
+
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2023).  
+**Polarization of opinions on COVID-19 measures: Integrating Twitter and survey data.**  
+*Social Science Computer Review, 41(5), 1811-1835.*
 
 Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2023).  
 **Polarized opinions on Covid-19 and environmental policy measures. The role of social media use and personal concerns in German-speaking countries.**  
 *Innovation: The European Journal of Social Science Research, 1-24.*
 
 `2022`
-
-Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2022).  
-**Polarization of opinions on COVID-19 measures: Integrating Twitter and survey data.**  
-*Social Science Computer Review, 08944393221087662.*
 
 Hadler, M., Klösch, B., Reiter-Haas, M., & Lex, E. (2022).  
 **Combining Survey and Social Media Data: Respondents' Opinions on COVID-19 Measures and Their Willingness to Provide Their Social Media Account Information.**  
@@ -202,7 +208,9 @@ Lacic, E., Kowald, D., Reiter-Haas M., Slawicek, V., & Lex, E. (2018).
 **Beyond Accuracy Optimization: On the Value of Item Embeddings for Student Job Recommendations.**  
 *In the International Workshop on Multi-dimensional Information Fusion for User Modeling and Personalization (IFUP'2018) co-located with the 11th ACM International Conference on Web Search and Data Mining (WSDM'2018)*  
 
-Reiter-Haas, M., Slawicek, V. & Lacic, E. (2018).  
+`2017`
+
+Reiter-Haas, M., Slawicek, V. & Lacic, E. (2017).  
 **Studo Jobs: Enriching Data With Predicted Job Labels.**  
 *In Workshop on Recommender Systems and Social Network Analysis (RS-SNA'2017) co-located with i-KNOW'2017*  
 
@@ -227,7 +235,7 @@ For the participation in symposium at The Web Conference 2023.
 ### Program Committee/Reviewer
 
 `2023`
-ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), RecSys'23 (Long + Short), EMNLP'23, [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full)
+ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), RecSys'23 (Long + Short), EMNLP'23, [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full), WSDM'24, TheWebConf'24 UMAP track
 <!-- ACL track: Computational Social Science and Cultural Analytics -->
 
 `2022`
@@ -242,41 +250,37 @@ IUI'21
 
 ### Conference Attendence
 
-`Attendee`
-RANLP'23 - [Write-Up on LLMs](https://iseratho.github.io/2023/09/14/llm-state.html)
+`2023`
 
-`Session Chair`
-TheWebConf’23 - User Modeling and Personalization: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility
+Attendee @ **RANLP'23** - [Write-Up on LLMs](https://iseratho.github.io/2023/09/14/llm-state.html)
 
-`Presenter`
-TheWebConf’23 - PhD Symposium: Exploration of Framing Biases in Polarized Online Content Consumption
+Session Chair @ **TheWebConf’23** - User Modeling and Personalization: Privacy Preserving Recommendation, Contrastive Learning & Web Accessibility
 
-`Poster`
-GraML - Opening Event (2022)
+Presenter @ **TheWebConf’23** - PhD Symposium: Exploration of Framing Biases in Polarized Online Content Consumption
 
-`Poster`
-ACSD’22 - Computational Framing Analysis in Online Media
+`2022`
 
-`Session Chair`
-TheWebConf’22 - Web Mining and Content Analysis: Social 2
+Poster @ **GraML** - Opening Event (2022)
 
-`Attendee`
-CHIIR’22
+Poster @ **ACSD’22** - Computational Framing Analysis in Online Media
 
-`Poster`
-RecSys’21 - Predicting music relistening behavior using the ACT-R framework
+Session Chair @ **TheWebConf’22** - Web Mining and Content Analysis: Social 2
 
-`Poster`
-IC2S2’21 - Opinion Polarization on COVID-19 Measures: Integrating Surveys and Social Media Data
+Attendee @ **CHIIR’22**
 
-`Poster`
-ICWSM’21 - Studying Moral-based Differences in the Framing of Political Tweets
+`2021`
 
-`Industry Talk`
-RecSys’20 - On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career
+Poster @ **RecSys’21** - Predicting music relistening behavior using the ACT-R framework
 
-`Workshop`
-SocInfo’20 - Bridging the gap of polarization in public opinion on misinformed topics
+Poster @ **IC2S2’21** - Opinion Polarization on COVID-19 Measures: Integrating Surveys and Social Media Data
+
+Poster @ **ICWSM’21** - Studying Moral-based Differences in the Framing of Political Tweets
+
+`2020`
+
+Industry Talk @ **RecSys’20** - On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career
+
+Workshop @ **SocInfo’20** - Bridging the gap of polarization in public opinion on misinformed topics
 
 ## PhD-specific Education
 
@@ -336,6 +340,9 @@ Focus on the Transformer architecture and large language models (LLMs)
 ### Teaching-related 
 <!-- Courses -->
 
+`2023S`
+[OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
+
 `2022W-2023S`
 Teaching Academy Module Advanced  
 (Comprising Competent Testing, Digitization in Teaching, Higher Education Didactics 3, and Teaching in English among others)  
@@ -355,9 +362,6 @@ Teaching Academy Module Basic
 <!-- - Teaching at TU Graz
 - Higher Education Didactics 1: Basics of Teaching and Learning
 - Higher Education Didactics 2: Teaching Course -->
-
-`2023S`
-[OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
 
 ## Misc
 
