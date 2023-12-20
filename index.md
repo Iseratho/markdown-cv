@@ -20,7 +20,7 @@ Austria
   <a href="https://mastodon.online/@Iseratho"><i class="fab fa-mastodon"></i> @iseratho@mastodon.online</a> | 
   <a href="https://www.linkedin.com/in/markus-reiter-haas/"><i class="fab fa-linkedin"></i> markus-reiter-haas</a> | <br/>
   <a href="https://scholar.google.com/citations?user=IN-hA_gAAAAJ"><i class="fas fa-graduation-cap"></i> Markus Reiter-Haas</a> | 
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-9852-8206"><i class="fab fa-orcid"></i> 0000-0001-9852-8206</a> | 
+  <a href="https://orcid.org/0000-0001-9852-8206"><i class="fab fa-orcid"></i> 0000-0001-9852-8206</a> | 
   <a href="https://www.researchgate.net/profile/Markus-Reiter-Haas"><i class="fab fa-researchgate"></i> Markus-Reiter-Haas</a>
 </div>
 
