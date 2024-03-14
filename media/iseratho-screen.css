@@ -64,11 +64,11 @@ body {
 
 p {
 	position: relative;
-	/* left: 25%; */
+	left: 5%;
 	margin-bottom: 0.7em;
 	margin-left: 1em;
 	margin-right: 0;
-	width: 75%;
+	width: 80%;
 }
 
 code {
@@ -88,7 +88,7 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 5%;
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -125,8 +125,8 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
-	width: 50%
+	left: 5%;
+	width: 70%;
 }
 
 h1+p {
@@ -140,6 +140,7 @@ h2 {
 	color: #bc412b;
 	margin-top: 3em;
 	margin-bottom: 1.5em;
+	margin-left: 1em;
 	/* position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -151,6 +152,7 @@ h3 {
 	line-height: 2em;
 	margin-top: 1em;
 	margin-bottom: 0.5em;
+	margin-left: 1em;
 	/* position: relative;
 	top: 1.7em;
 	text-align: right;
