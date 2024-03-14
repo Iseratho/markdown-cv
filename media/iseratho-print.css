@@ -37,6 +37,7 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 	text-align: justify;
+	width: 100%;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -82,7 +83,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -3%;
+	left: 90%;
 }
 
 
@@ -126,7 +127,6 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 3%;
 	margin-left: 1em;
 	width: 80%;
 }
