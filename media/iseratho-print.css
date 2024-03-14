@@ -69,7 +69,7 @@ p {
 	margin-bottom: 0.2em;
 	margin-left: 1em;
 	margin-right: 0;
-	width: 80%;
+	width: 90%;
 }
 
 code {
@@ -90,7 +90,7 @@ p code {
 ul {
 	position: relative;
 	left: 3%;
-	width: 80%;
+	width: 90%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -119,7 +119,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	width: 90%;
 }
 
 h1 {
@@ -128,7 +128,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	margin-left: 1em;
-	width: 80%;
+	width: 90%;
 }
 
 h1+p {
@@ -177,7 +177,7 @@ a:hover {
 	position: relative;
 	left: 3%;
 	margin-left: 1em;
-	width: 80%;
+	width: 90%;
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;

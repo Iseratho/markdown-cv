@@ -70,7 +70,7 @@ p {
 	margin-bottom: 0.7em;
 	margin-left: 1em;
 	margin-right: 0;
-	width: 80%;
+	width: 90%;
 }
 
 code {
@@ -91,7 +91,7 @@ p code {
 ul {
 	position: relative;
 	left: 3%;
-	width: 80%;
+	width: 90%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -128,7 +128,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	margin-left: 1em;
-	width: 80%;
+	width: 90%;
 }
 
 h1+p {
@@ -175,7 +175,7 @@ a:hover {
 	position: relative;
 	left: 3%;
 	margin-left: 1em;
-	width: 80%;
+	width: 90%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
