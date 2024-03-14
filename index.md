@@ -26,48 +26,64 @@ Austria
 
 ## About Me
 
-Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD candidate at the Graz University of Technology. His research focuses on natural language processing in social systems. His ongoing PhD thesis has the topic of polarization in public opinion. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data. He has a Master’s and Bachelor’s degree, both with distinction, in Computer Science at Graz University of Technology, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experience in machine learning. 
+Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD candidate at the Graz University of Technology. His research focuses on natural language processing in social systems. His PhD thesis deals with computational methods to understand framing online. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data to study polarization in public opinion. He has a Master’s and Bachelor’s degree (both with distinction) in Computer Science, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experiences with machine learning approaches. 
 
 ## Research Interests
 
-Natural Language Processing, Network Science, Machine Learning,
-Word Embeddings, Item Representations, Recommender Systems, Information Retrieval
+Natural Language Processing and Transformers, Embeddings and Item Representations, Information Retrieval and Recommender Systems, Framing and Polarization
 
 ## Education
 
-`2020 - present`
+`2020-2024`
 **PhD Candidate in Computer Science**  
 Graz University of Technology  
-Polarization in Public Opinion  
+Thesis: "Computational Framing Analysis for Polarized Topics Online"
+<!-- Project: Polarization in Public Opinion   -->
 
-`2017 – 2020`
+`2017–2020`
 **Master in Computer Science**  
-Graz University of Technology
+Graz University of Technology  
+Thesis: "Evaluation of Job Recommendations for the Studo Jobs Platform"
 Main Specialization: Knowledge Technologies  
 Secondary Specialization: Multimedia Information Systems  
 Passed with distinction  
 
-`2012 – 2017`
+`2012–2017`
 **Bachelor in Computer Science**  
 Graz University of Technology  
+Catrobat Project: Timesheet Plugin for Jira
 Passed with distinction  
 
-`2006 – 2011`
+`2006–2011`
 **Technical College in Computer Science**  
 HTBLA Kaindorf an der Sulm  
 Passed with distinction  
 
 ## Experience
 
-`2020 – Present`
+`2020–2024`
 **University Assistant**  
-Technische Universität Graz  
-Research Focus: NLP in SocialSystems
+Graz University of Technology  
+Research Focus: NLP in Social Systems
 
 `2017-2020`
 **Data Scientist**  
 Moshbit GmbH (Talto - Talents of Tomorrow)  
-Research on deeplearning for job recommenders
+Research on deeplearning for job recommenders  
+Funded by FFG (national funding agency)
+
+`2013-2017`
+**Student Assistant**  
+Graz University of Technology  
+Fundementals in Computer Science  
+
+`2011-2012`
+**Civilian Service**  
+Emergency call dispatching for fire brigades  
+
+`2008-2010`
+**Summer Internships**  
+GUEP (2010), Joanneum Research (2009), Siemens (2008)  
 
 ## Teaching
 
@@ -75,7 +91,7 @@ Research on deeplearning for job recommenders
 **Advanced Information Retrieval**  
 Lecturer WS23 ([PyTorch 4 Deeplearning](https://www.kaggle.com/code/markusreiterhaas/intro-to-deep-learning-with-pytorch-air-ws23), [Transformers 4 IR - Reranking and Retrieval](https://www.kaggle.com/code/markusreiterhaas/transformers4ir-re-ranking-retrieval-air-ws23))  
 Lecturer WS22 ([Transformer 4 IR Hands-on Tutorial](https://www.kaggle.com/code/markusreiterhaas/advanced-information-retrieval-7-transformers4ir))  
-Projects WS22 ([Showcase](https://socialcomplab.github.io/advancedIR-2022-showcase/)) and WS23  
+Projects WS22 ([Showcase](https://socialcomplab.github.io/advancedIR-2022-showcase/)) and WS23 ([Showcase](https://socialcomplab.github.io/advancedIR-2023-showcase/))  
 
 `2022W`
 **SemEval 2023 Challenge Team**  
@@ -133,8 +149,21 @@ English: C1
 `2024`
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
+**Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations**  
+Accepted for Publication and Presentation the Text2Story'24 Workshop co-located with the ECIR'24.  
+
+Reiter-Haas, M., & Lex, E. (2024).  
+**The Framing Loop: Do Users Repeatedly Read Similar Framed News Online?**  
+Accepted for Publication and Presentation the Joint Workshop of HUMANIZE'24 and SOCIALIZE'24 co-located with the IUI'24.  
+
+
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **FrameFinder: Explorative Multi-Perspective Framing Extraction from News Headlines.**  
-Accepted for publication at CHIIR'24.  
+In Proceedings of the 2024 Conference of Human Information Interaction and Retreival (CHIIR '24), 381-385.  
+
+Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
+**Framing Analysis of Health-Related Narratives: Conspiracy versus Mainstream Media.**  
+arXiv preprint arXiv:2401.10030.  
 
 `2023`
 
@@ -234,6 +263,9 @@ For the participation in symposium at The Web Conference 2023.
 
 ### Program Committee/Reviewer
 
+`2024`
+SIGIR'24 (Short papers)
+
 `2023`
 ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), RecSys'23 (Long + Short), EMNLP'23, [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full), WSDM'24, TheWebConf'24 UMAP track
 <!-- ACL track: Computational Social Science and Cultural Analytics -->
@@ -249,6 +281,12 @@ IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, TheWebConf'22 WMCA t
 IUI'21
 
 ### Conference Attendence
+
+`2024`
+
+Demo @ **CHIIR'24** - Presentation and Demonstration of the FrameFinder Tool
+
+Workshop @ **WSDM'24** - Presentation in the Psychology-informed Information Access Systems Workshop (PsyIAS)
 
 `2023`
 
@@ -282,6 +320,18 @@ Industry Talk @ **RecSys’20** - On the Heterogeneous Information Needs in the 
 
 Workshop @ **SocInfo’20** - Bridging the gap of polarization in public opinion on misinformed topics
 
+### Projects
+
+`2020 - 2024`
+[Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)  
+Interdisciplinary project together with University of Graz  
+
+### Press
+
+`2020`
+[Polarization in the COVID-19 debate.](https://nachrichten.idw-online.de/2020/09/21/verschwoerung-oder-fakten-forschungsergebnisse-von-uni-graz-und-tu-graz-zeigen-polarisierung-in-der-corona-debatte-auf/) (in German)  
+Informationsdienst Wissenschaft e.V. -idw- 2020.  
+
 ## PhD-specific Education
 
 ### PhD Curricular 
@@ -302,9 +352,6 @@ Data Integration and Large-Scale Analysis - Apache SystemDS - [PR-1169](https://
 `2020S`
 Architecture of Machine Learning System - Apache SystemDS - [PR-993](https://github.com/apache/systemds/pull/993)
 
-`2020S`
-Natural Language Processing - [RecSys Challenge Twitter Engagement]([http://www.recsyschallenge.com/2020/](http://www.recsyschallenge.com/2020/))
-
 ### PhD Extra-Curricular 
 <!-- Courses -->
 
@@ -313,6 +360,9 @@ Scientific Writing: From a Blank Page to the Finished Paper
 
 `2021S`
 Clear Scientific Writing
+
+`2020S`
+Natural Language Processing - [RecSys Challenge Twitter Engagement]([http://www.recsyschallenge.com/2020/](http://www.recsyschallenge.com/2020/))
 
 ### PhD Coaching
 
@@ -328,7 +378,7 @@ High Potential Coaching - Develop your personal strategy for a successful PhD
 `2022W`
 Meeting Point Dissertation Workshop - Time and Self-Management
 
-### Summer School
+### Summer Schools
 `2023S`
 [2nd Summer school on Deep Learning in Natural Language Processing 2023](https://dlinnlp2023.github.io/)  
 co-located with RANLP'23  
@@ -339,6 +389,10 @@ Focus on the Transformer architecture and large language models (LLMs)
 
 ### Teaching-related 
 <!-- Courses -->
+
+`2023W-2024S`
+Teaching Academy Module Expert  
+(Teaching community contribution at teaching conference)
 
 `2023S`
 [OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
@@ -363,28 +417,16 @@ Teaching Academy Module Basic
 - Higher Education Didactics 1: Basics of Teaching and Learning
 - Higher Education Didactics 2: Teaching Course -->
 
-## Misc
+<!-- ## Misc -->
 
-### Public Speaking
+<!-- ### Public Speaking
 
 `2019`
 **How we revolutionized the future of HR.**  
 Fifteen Seconds Festival.
 
 `2019`
-**Styria AI Slam**
-
-### Projects
-
-`2020 - present`
-[Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)  
-PhD project
-
-### Press
-
-`2020`
-[Polarisation on COVID-19 debate.](https://nachrichten.idw-online.de/2020/09/21/verschwoerung-oder-fakten-forschungsergebnisse-von-uni-graz-und-tu-graz-zeigen-polarisierung-in-der-corona-debatte-auf/) (in German)
-Informationsdienst Wissenschaft e.V. -idw- 2020.
+**Styria AI Slam** -->
 
 <!-- ## Personal
 Birthday: 
