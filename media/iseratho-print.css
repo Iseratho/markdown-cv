@@ -81,7 +81,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -25%;
+	right: -5%;
 }
 
 
@@ -126,6 +126,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 5%;
+	margin-left: 1em;
 	width: 70%;
 }
 
@@ -173,7 +174,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 5%;
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
