@@ -284,6 +284,10 @@ IUI'21
 
 `2024`
 
+Workshop @ **ECIR'24** - Presentation in the Text2Story'24 workshop
+
+Workshop @ **IUI'24** - Presentation in the Joint Workshop of HUMANIZE'24 and SOCIALIZE'24 
+
 Demo @ **CHIIR'24** - Presentation and Demonstration of the FrameFinder Tool
 
 Workshop @ **WSDM'24** - Presentation in the Psychology-informed Information Access Systems Workshop (PsyIAS)
