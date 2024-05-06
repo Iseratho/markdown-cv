@@ -148,6 +148,10 @@ English: C1
 
 `2024`
 
+Kowald, D., Reiter-Haas, M., Kopeinik, S., Schedl, M., & Lex, E. (2024).  
+**Transparent Music Preference Modeling and Recommendation with a Model of Human Memory Theory.**
+In A Human-Centered Perspective of Intelligent Personalized Environments and Systems (pp. 113-136). Cham: Springer Nature Switzerland.
+
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations**  
 In Proceedings of the Text2Story’24 Workshop, Glasgow (Scotland), 24-March-2024.
@@ -155,7 +159,6 @@ In Proceedings of the Text2Story’24 Workshop, Glasgow (Scotland), 24-March-202
 Reiter-Haas, M., & Lex, E. (2024).  
 **The Framing Loop: Do Users Repeatedly Read Similar Framed News Online?**  
 In Joint Proceedings of the ACM IUI Workshops 2024, March 18-21, 2024, Greenville, South Carolina, USA.
-
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **FrameFinder: Explorative Multi-Perspective Framing Extraction from News Headlines.**  
