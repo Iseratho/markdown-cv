@@ -150,11 +150,11 @@ English: C1
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations**  
-Accepted for Publication and Presentation the Text2Story'24 Workshop co-located with the ECIR'24.  
+In Proceedings of the Text2Story’24 Workshop, Glasgow (Scotland), 24-March-2024.
 
 Reiter-Haas, M., & Lex, E. (2024).  
 **The Framing Loop: Do Users Repeatedly Read Similar Framed News Online?**  
-Accepted for Publication and Presentation the Joint Workshop of HUMANIZE'24 and SOCIALIZE'24 co-located with the IUI'24.  
+In Joint Proceedings of the ACM IUI Workshops 2024, March 18-21, 2024, Greenville, South Carolina, USA.
 
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
@@ -246,6 +246,12 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2017).
 <!-- ## Services -->
 
 ### Funding
+
+`2024`
+
+**Travel grant for scientists** (Reisekostenzuschuss für WissenschafterInnen)  
+*Office of the Styrian Government* (Amt der Steiermärkischen Landesregierung)  
+For the participation at CHIIR'24.  
 
 `2023`
 
@@ -370,6 +376,9 @@ Natural Language Processing - [RecSys Challenge Twitter Engagement]([http://www.
 
 ### PhD Coaching
 
+`2024S`
+Career Planning - What are my further career moves?
+
 `2023W`
 High Potential Coaching - Boost your Productivity
 
@@ -393,6 +402,10 @@ Focus on the Transformer architecture and large language models (LLMs)
 
 ### Teaching-related 
 <!-- Courses -->
+
+`2024S`
+[Didactics Workshop](https://www.steirischerhochschulraum.at/didaktik-werkstatt/)  
+(Comprising Performance assessment: from product to process, Professional relationship work in teaching, and Coaching skills for teaching)
 
 `2023W-2024S`
 Teaching Academy Module Expert  
