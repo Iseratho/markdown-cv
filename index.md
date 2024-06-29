@@ -35,9 +35,9 @@ Austria
 ## Education
 
 `2020-2024`
-**PhD Candidate in Computer Science**  
+**PhD in Computer Science**  
 Graz University of Technology  
-Thesis: "Computational Framing Analysis for Polarized Topics Online"
+Thesis: ["Computational Framing Analysis for Polarized Topics Online"](thesis/thesis.pdf)
 <!-- Project: Polarization in Public Opinion   -->
 
 `2017–2020`
@@ -273,7 +273,7 @@ For the participation in symposium at The Web Conference 2023.
 ### Program Committee/Reviewer
 
 `2024`
-SIGIR'24 (Short papers)
+SIGIR'24 (Short papers), RecSys'24 (Long + Short)
 
 `2023`
 ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), RecSys'23 (Long + Short), EMNLP'23, [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full), WSDM'24, TheWebConf'24 UMAP track
@@ -412,7 +412,7 @@ Focus on the Transformer architecture and large language models (LLMs)
 
 `2023W-2024S`
 Teaching Academy Module Expert  
-(Teaching community contribution at teaching conference)
+(Teaching community contribution at teaching conference, eCampus use case)
 
 `2023S`
 [OER Practitioner](https://www.oer-zertifikat.at/oer/de/zertifikate/personenzertifikat)
