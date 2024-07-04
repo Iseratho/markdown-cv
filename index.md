@@ -37,7 +37,8 @@ Austria
 `2020-2024`
 **PhD in Computer Science**  
 Graz University of Technology  
-Thesis: ["Computational Framing Analysis for Polarized Topics Online"](thesis/thesis.pdf)
+Thesis: ["Computational Framing Analysis for Polarized Topics Online"](thesis/thesis.pdf)  
+Passed with distinction  
 <!-- Project: Polarization in Public Opinion   -->
 
 `2017–2020`
@@ -148,25 +149,29 @@ English: C1
 
 `2024`
 
+Reiter-Haas, M. (2024).  
+**Computational Framing Analysis for Polarized Topics Online.**  
+*PhD thesis.*  
+
 Kowald, D., Reiter-Haas, M., Kopeinik, S., Schedl, M., & Lex, E. (2024).  
 **Transparent Music Preference Modeling and Recommendation with a Model of Human Memory Theory.**
-In A Human-Centered Perspective of Intelligent Personalized Environments and Systems (pp. 113-136). Cham: Springer Nature Switzerland.
+*In A Human-Centered Perspective of Intelligent Personalized Environments and Systems (pp. 113-136). Cham: Springer Nature Switzerland.*
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations**  
-In Proceedings of the Text2Story’24 Workshop, Glasgow (Scotland), 24-March-2024.
+*In Proceedings of the Text2Story’24 Workshop, Glasgow (Scotland), 24-March-2024.*
 
 Reiter-Haas, M., & Lex, E. (2024).  
 **The Framing Loop: Do Users Repeatedly Read Similar Framed News Online?**  
-In Joint Proceedings of the ACM IUI Workshops 2024, March 18-21, 2024, Greenville, South Carolina, USA.
+*In Joint Proceedings of the ACM IUI Workshops 2024, March 18-21, 2024, Greenville, South Carolina, USA.*
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **FrameFinder: Explorative Multi-Perspective Framing Extraction from News Headlines.**  
-In Proceedings of the 2024 Conference of Human Information Interaction and Retreival (CHIIR '24), 381-385.  
+*In Proceedings of the 2024 Conference of Human Information Interaction and Retreival (CHIIR '24), 381-385.*  
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
 **Framing Analysis of Health-Related Narratives: Conspiracy versus Mainstream Media.**  
-arXiv preprint arXiv:2401.10030.  
+*arXiv preprint arXiv:2401.10030.*  
 
 `2023`
 
@@ -251,6 +256,10 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2017).
 ### Funding
 
 `2024`
+
+Research funding programme for **International Communication**  
+*Austrian Research Association* (Österreichische Forschungsgemeinschaf)  
+For the participation at the Text2Story Workshop at ECIR'24.  
 
 **Travel grant for scientists** (Reisekostenzuschuss für WissenschafterInnen)  
 *Office of the Styrian Government* (Amt der Steiermärkischen Landesregierung)  
