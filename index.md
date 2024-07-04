@@ -38,7 +38,7 @@ Austria
 **PhD in Computer Science**  
 Graz University of Technology  
 Thesis: ["Computational Framing Analysis for Polarized Topics Online"](thesis/thesis.pdf)  
-Passed with distinction  
+*Passed with distinction*  
 <!-- Project: Polarization in Public Opinion   -->
 
 `2017–2020`
@@ -47,18 +47,18 @@ Graz University of Technology
 Thesis: "Evaluation of Job Recommendations for the Studo Jobs Platform"
 Main Specialization: Knowledge Technologies  
 Secondary Specialization: Multimedia Information Systems  
-Passed with distinction  
+*Passed with distinction*  
 
 `2012–2017`
 **Bachelor in Computer Science**  
 Graz University of Technology  
-Catrobat Project: Timesheet Plugin for Jira
-Passed with distinction  
+Catrobat Project: Timesheet Plugin for Jira  
+*Passed with distinction*  
 
 `2006–2011`
 **Technical College in Computer Science**  
 HTBLA Kaindorf an der Sulm  
-Passed with distinction  
+*Passed with distinction*  
 
 ## Experience
 
@@ -93,6 +93,10 @@ GUEP (2010), Joanneum Research (2009), Siemens (2008)
 Lecturer WS23 ([PyTorch 4 Deeplearning](https://www.kaggle.com/code/markusreiterhaas/intro-to-deep-learning-with-pytorch-air-ws23), [Transformers 4 IR - Reranking and Retrieval](https://www.kaggle.com/code/markusreiterhaas/transformers4ir-re-ranking-retrieval-air-ws23))  
 Lecturer WS22 ([Transformer 4 IR Hands-on Tutorial](https://www.kaggle.com/code/markusreiterhaas/advanced-information-retrieval-7-transformers4ir))  
 Projects WS22 ([Showcase](https://socialcomplab.github.io/advancedIR-2022-showcase/)) and WS23 ([Showcase](https://socialcomplab.github.io/advancedIR-2023-showcase/))  
+
+`2022W-2023W`
+**Research Meetings** within the Recommender Systems and Social Computing Lab  
+Organization, Unit on academic publishing
 
 `2022W`
 **SemEval 2023 Challenge Team**  
@@ -154,11 +158,11 @@ Reiter-Haas, M. (2024).
 *PhD thesis.*  
 
 Kowald, D., Reiter-Haas, M., Kopeinik, S., Schedl, M., & Lex, E. (2024).  
-**Transparent Music Preference Modeling and Recommendation with a Model of Human Memory Theory.**
+**Transparent Music Preference Modeling and Recommendation with a Model of Human Memory Theory.**  
 *In A Human-Centered Perspective of Intelligent Personalized Environments and Systems (pp. 113-136). Cham: Springer Nature Switzerland.*
 
 Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024).  
-**Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations**  
+**Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations.**  
 *In Proceedings of the Text2Story’24 Workshop, Glasgow (Scotland), 24-March-2024.*
 
 Reiter-Haas, M., & Lex, E. (2024).  
