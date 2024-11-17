@@ -4,12 +4,13 @@ title: Markus Reiter-Haas' CV
 ---
 
 # Markus Reiter-Haas
-University Assistant @ Graz University of Technology
+Postdoctoral Associate @ Duke University  
 
-
-Institute of Interactive Systems and Data Science  
-Sandgasse 36/III, 8010 Graz  
-Austria  
+Department of Statistical Science  
+214 Old Chemistry  
+Box 90251  
+Durham, NC 27708-0251  
+USA  
 
 <a href="mailto:reiter-haas@tugraz.at"><i class="fas fa-envelope"></i> reiter-haas@tugraz.at</a>  
 
@@ -26,7 +27,11 @@ Austria
 
 ## About Me
 
+> Markus Reiter-Haas is a postdoctoral associate at the Polarization Lab at Duke University. There, his research focuses on modelling user attitudes, their behavior and their generated content using randomized controlled trials together with large language models in social media environments. He holds a PhD degree with distinction in computer science from the Institute of Interactive Systems and Data Science at Graz University of Technology. In his dissertation, he developed computational methods to understand the framing of textual data in polarized online media. Hence, he is experienced working in interdisciplinary teams and integrating social science theories with machine learning approaches. Besides, he has an extensive computer science background with over 18 years of programming experience and as a data scientist in the industry responsible for an information retrieval system.
+
+<!--
 > Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD candidate at the Graz University of Technology. His research focuses on natural language processing in social systems. His PhD thesis deals with computational methods to understand framing online. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data to study polarization in public opinion. He has a Master’s and Bachelor’s degree (both with distinction) in Computer Science, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experiences with machine learning approaches. 
+-->
 
 ## Research Interests
 
@@ -61,6 +66,11 @@ HTBLA Kaindorf an der Sulm
 *Passed with distinction*  
 
 ## Experience
+
+`2024-now`
+**PostDoc**  
+Duke University  
+The Polarization Lab (Joint Lab of the department of Statistical Science, Political Science, and Sociology)   
 
 `2020–2024`
 **University Assistant**  
