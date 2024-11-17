@@ -12,7 +12,7 @@ Box 90251
 Durham, NC 27708-0251  
 USA  
 
-<a href="mailto:reiter-haas@tugraz.at"><i class="fas fa-envelope"></i> reiter-haas@tugraz.at</a>  
+<a href="mailto:markus.reiter-haas@duke.edu"><i class="fas fa-envelope"></i> markus.reiter-haas@duke.edu</a>  
 
 <div id="webaddress">
   <a href="https://iseratho.github.io"><i class="fas fa-home"></i> https://iseratho.github.io/</a> | 
