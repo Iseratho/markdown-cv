@@ -4,13 +4,19 @@ title: Markus Reiter-Haas' CV
 ---
 
 # Markus Reiter-Haas
-Postdoctoral Associate @ Duke University  
+Postdoctoral Researcher @ Graz University of Technology
 
+Institute of Human-Centred Computing
+Sandgasse 36/III, 8010 Graz
+Austria
+
+<!--
 Department of Statistical Science  
 214 Old Chemistry  
 Box 90251  
 Durham, NC 27708-0251  
 USA  
+-->
 
 <a href="mailto:markus.reiter-haas@duke.edu"><i class="fas fa-envelope"></i> markus.reiter-haas@duke.edu</a>  
 
@@ -27,15 +33,57 @@ USA
 
 ## About Me
 
+Dr. Markus Reiter-Haas is a researcher dedicated to the optimization of modern socio-technical platforms. My work integrates User Behavior Analysis, Representation Learning, and Ethical Matching Algorithms to create more reliable Information Retrieval and Recommender Systems. Currently investigating how neuro-symbolic approaches can foster trustworthy content diversification and mitigate polarization in large-scale information systems.
+<!--
 > Markus Reiter-Haas is a postdoctoral associate at the Polarization Lab at Duke University. There, his research focuses on modelling user attitudes, their behavior and their generated content using randomized controlled trials together with large language models in social media environments. He holds a PhD degree with distinction in computer science from the Institute of Interactive Systems and Data Science at Graz University of Technology. In his dissertation, he developed computational methods to understand the framing of textual data in polarized online media. Hence, he is experienced working in interdisciplinary teams and integrating social science theories with machine learning approaches. Besides, he has an extensive computer science background with over 18 years of programming experience and as a data scientist in the industry responsible for an information retrieval system.
-
+-->
 <!--
 > Markus Reiter-Haas is a university assistant at the Institute of Interactive Systems and Data Science and PhD candidate at the Graz University of Technology. His research focuses on natural language processing in social systems. His PhD thesis deals with computational methods to understand framing online. As part of the PhD research, he collaborates with the University of Graz in a Route 63 project with the goal to combine survey and social media data to study polarization in public opinion. He has a Master’s and Bachelor’s degree (both with distinction) in Computer Science, where he put a focus on Knowledge Technologies. Hence, he has good analytical skills and solid experiences with machine learning approaches. 
 -->
 
 ## Research Interests
 
+> recommender systems, information retrieval, artificial intelligence, natural language processing, computational social science, Transformers, user modeling and item representations
+
+<!--
 > Natural Language Processing and Transformers, Embeddings and Item Representations, Information Retrieval and Recommender Systems, Framing and Polarization
+-->
+
+## Experience
+
+`since 2025`
+**Postdoctoral University Project Assistant**  
+Graz University of Technology  
+Researching Neurosymbolic AI and ethical recommender systems  
+
+`2024-2025`
+**Postdoctoral Associate**  
+Duke University  
+The Polarization Lab (Joint Lab of the department of Statistical Science, Political Science, and Sociology)   
+
+`2020–2024`
+**University Assistant**  
+Graz University of Technology  
+Research Focus: NLP in Social Systems
+
+`2017-2020`
+**Data Scientist**  
+Moshbit GmbH (Talto - Talents of Tomorrow)  
+Research on deeplearning for job recommenders  
+Funded by FFG (national funding agency)
+
+`2013-2017`
+**Student Assistant**  
+Graz University of Technology  
+Fundementals in Computer Science  
+
+`2011-2012`
+**Civilian Service**  
+Emergency call dispatching for fire brigades  
+
+`2008-2010`
+**Summer Internships**  
+GUEP (2010), Joanneum Research (2009), Siemens (2008)  
 
 ## Education
 
@@ -65,38 +113,15 @@ Catrobat Project: Timesheet Plugin for Jira
 HTBLA Kaindorf an der Sulm  
 *Passed with distinction*  
 
-## Experience
-
-`2024-now`
-**PostDoc**  
-Duke University  
-The Polarization Lab (Joint Lab of the department of Statistical Science, Political Science, and Sociology)   
-
-`2020–2024`
-**University Assistant**  
-Graz University of Technology  
-Research Focus: NLP in Social Systems
-
-`2017-2020`
-**Data Scientist**  
-Moshbit GmbH (Talto - Talents of Tomorrow)  
-Research on deeplearning for job recommenders  
-Funded by FFG (national funding agency)
-
-`2013-2017`
-**Student Assistant**  
-Graz University of Technology  
-Fundementals in Computer Science  
-
-`2011-2012`
-**Civilian Service**  
-Emergency call dispatching for fire brigades  
-
-`2008-2010`
-**Summer Internships**  
-GUEP (2010), Joanneum Research (2009), Siemens (2008)  
-
 ## Teaching
+
+`2025W`
+**Advanced Information Retrieval**  
+Guest lecture on Transformers for Information Retrieval  
+
+`2025`
+**Human-AI Co-Evolution**  
+Guest lecture Lecture unit on the Social Media Accelerator platform for studying human behavior with field experiments on using LLM-powered bots.  
 
 `2022W-2023W`
 **Advanced Information Retrieval**  
@@ -136,9 +161,11 @@ Polarization
 **Lukas Preitler** - Bachelor Thesis  
 Topic Description: *Word Embedding Association Test to Reveal Gender Bias in Austrian Teaching Literature*  
 
+<!--
 ## Skills
 
 ### Main Programming Languages
+
 
 `2012-present`
 Python
@@ -152,20 +179,40 @@ Java
 `2017-2020`
 Kotlin
 
+
 ### Natural Languages
+-->
+
+## Languages
 
 German: Native  
 English: C1  
+Python: 10+ years  
+JavaScript: 10+ years  
+Java: 15 years  
 
 ## Research
 
 ### Publications
+
+`2025`
+
+Reiter-Haas, M., & Lex, E. (2025).  
+**Towards Multi-Aspect Diversification of News Recommendations Using Neuro-Symbolic AI for Individual and Societal Benefit.**
+
+Hadler, M., Ertl, A., Klösch, B., Reiter-Haas, M., & Lex, E. (2025).  
+**The climate gluing protests: analyzing their development and framing in media since 1986 using sentiment analyses and frame detection models.**  
+_Frontiers in Big Data, 8, 1569623._  
 
 `2024`
 
 Reiter-Haas, M. (2024).  
 **Computational Framing Analysis for Polarized Topics Online.**  
 *PhD thesis.*  
+
+Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2024).  
+**Polarized opinions on Covid-19 and environmental policy measures. The role of social media use and personal concerns in German-speaking countries.**  
+*Innovation: The European Journal of Social Science Research, 37(4), 941-964.*  
 
 Kowald, D., Reiter-Haas, M., Kopeinik, S., Schedl, M., & Lex, E. (2024).  
 **Transparent Music Preference Modeling and Recommendation with a Model of Human Memory Theory.**  
@@ -267,6 +314,17 @@ Reiter-Haas, M., Slawicek, V. & Lacic, E. (2017).
 
 <!-- ## Services -->
 
+### Awards
+
+`2025`
+Finalist (top 5) for the Advancement Award from the Forum Technik und Gesellschaft to honor dissertations with particular societal relevance.
+
+`2023`
+1st place on Spanisch framing detection at SemEval 2023 task 3.
+
+`2022`
+Best reviewers recognition at the TheWebConf’23 UMAP track.
+
 ### Funding
 
 `2024`
@@ -295,8 +353,11 @@ For the participation in symposium at The Web Conference 2023.
 
 ### Program Committee/Reviewer
 
+`2025`
+ICWSM’25 (Jan.), ICWSM’26 (May, and September Cycle) Royal Society Open Science, RecSys’25 (long, short, and LBR), JMIR (Infodemiology and Infoveillance), JMIR Infodemiology (Reviews in Infodemiology), UMAP’25 HyPer workshop, TheWebConf’26 (UMAP track), Social Science Computer Review
+
 `2024`
-SIGIR'24 (Short papers), RecSys'24 (Long + Short)
+SIGIR'24 (Short papers), RecSys'24 (Long + Short), ICWSM’25 (Sep. Cycle), CSCW’25, TheWebConf’25
 
 `2023`
 ACL'23, SIGIR'23 (Full + Short papers), SemEval'23 (Task 3), RecSys'23 (Long + Short), EMNLP'23, [Frontiers in Big Data (Recommender Systems - Reviews in Recommender Systems: 2022)](https://www.frontiersin.org/articles/10.3389/fdata.2023.1157899/full), WSDM'24, TheWebConf'24 UMAP track
@@ -312,7 +373,17 @@ IUI'22 Main, IUI'22 Posters, RecSys'21 Main, RecSys'21 LBR, TheWebConf'22 WMCA t
 `2020`
 IUI'21
 
-### Conference Attendence
+### Conference Talks and Attendence
+
+`2025`
+
+Presentation @ NetSci’25
+
+Lightning Talk + Poster @ ASAI’25 Networking Event
+
+Lightning Talk + Poster @ INRA’25 workshop (RecSys’25)
+
+Lightning Talk @ Bilateral AI Retreat
 
 `2024`
 
@@ -356,6 +427,7 @@ Industry Talk @ **RecSys’20** - On the Heterogeneous Information Needs in the 
 
 Workshop @ **SocInfo’20** - Bridging the gap of polarization in public opinion on misinformed topics
 
+<!--
 ### Projects
 
 `2020 - 2024`
@@ -370,8 +442,7 @@ Informationsdienst Wissenschaft e.V. -idw- 2020.
 
 ## PhD-specific Education
 
-### PhD Curricular 
-<!-- Courses -->
+### PhD Curricular Courses
 
 `2020W`
 Scientific Writing for PhD students (C1-level)
@@ -389,7 +460,6 @@ Data Integration and Large-Scale Analysis - Apache SystemDS - [PR-1169](https://
 Architecture of Machine Learning System - Apache SystemDS - [PR-993](https://github.com/apache/systemds/pull/993)
 
 ### PhD Extra-Curricular 
-<!-- Courses -->
 
 `2021S`
 Scientific Writing: From a Blank Page to the Finished Paper
@@ -400,7 +470,7 @@ Clear Scientific Writing
 `2020S`
 Natural Language Processing - [RecSys Challenge Twitter Engagement]([http://www.recsyschallenge.com/2020/](http://www.recsyschallenge.com/2020/))
 
-### PhD Coaching
+### PhD Coaching Courses
 
 `2024S`
 Career Planning - What are my further career moves?
@@ -426,8 +496,7 @@ Focus on the Transformer architecture and large language models (LLMs)
 `2022S`
 [SICSS-Aachen-Graz](https://sicss.io/2022/aachen-graz/) - Project: [Rally ‘round the institution](https://github.com/Iseratho/sicss-idea-6)
 
-### Teaching-related 
-<!-- Courses -->
+### Teaching-related Courses
 
 `2024S`
 [Didactics Workshop](https://www.steirischerhochschulraum.at/didaktik-werkstatt/)  
@@ -444,36 +513,31 @@ Teaching Academy Module Expert
 Teaching Academy Module Advanced  
 (Comprising Competent Testing, Digitization in Teaching, Higher Education Didactics 3, and Teaching in English among others)  
 
-<!-- - Competent testing
+- Competent testing
 - Digitization in teaching: How technology can enrich your teaching
 - Higher Education Didactics 3 - Teaching Behavior Training
 - Teaching in English: Presenting in Class
 - Accessible PowerPoint Presentations
 - Didactic Workshop - Create good exam questions with little effort
-- Didactic Workshop - Blended Learning: Flipped Classroom, Braid Structure, etc. -->
+- Didactic Workshop - Blended Learning: Flipped Classroom, Braid Structure, etc.
 
 `2021W`
 Teaching Academy Module Basic  
 (Comprising Teaching at TU Graz, Higher Education Didactics 1 and 2: Basics of Teaching and Learning/Teaching Courses)  
 
-<!-- - Teaching at TU Graz
+- Teaching at TU Graz
 - Higher Education Didactics 1: Basics of Teaching and Learning
-- Higher Education Didactics 2: Teaching Course -->
+- Higher Education Didactics 2: Teaching Course
 
-<!-- ## Misc -->
+## Misc
 
-<!-- ### Public Speaking
+### Public Speaking
 
 `2019`
 **How we revolutionized the future of HR.**  
 Fifteen Seconds Festival.
 
 `2019`
-**Styria AI Slam** -->
+**Styria AI Slam** 
 
-<!-- ## Personal
-Birthday: 
-Adress: 
-Mobile: 
-Email: 
-Nationality  -->
+-->
